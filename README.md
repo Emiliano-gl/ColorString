@@ -8,14 +8,14 @@ A library to change the color of de text with **C++11**
 
 ### colors
 
-* **<span style="color: #000000">Black</span>**
-* **<span style="color: #ff0000">Red</span>**
-* **<span style="color: #00ff00">Green</span>**
-* **<span style="color: #ffff00">Yellow</span>**
-* **<span style="color: #00cdcd">Cyan</span>**
-* **<span style="color: #cd00cd">Magenta</span>**
-* **<span style="color: #0000ee">Blue</span>**
-* **<span style="color: #e5e5e5">White</span>**
+* **Black**
+* **Red**
+* **Green**
+* **Yellow**
+* **Cyan**
+* **Magenta**
+* **Blue**
+* **White**
 
 ### Example
 
