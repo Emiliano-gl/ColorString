@@ -36,9 +36,9 @@ int main(){
 
   cout << endl << endl;
 
-  cout << cyanColorText("Example color cyan") << endl;
-  cout << cyanColorText("Example color cyan bold", "bold") << endl;
-  cout << cyanColorText("Example color cyan underline", "underline") << endl;
+  cout << blueColorText("Example color blue") << endl;
+  cout << blueColorText("Example color blue bold", "bold") << endl;
+  cout << blueColorText("Example color blue underline", "underline") << endl;
 
   cout << endl << endl;
 
@@ -48,10 +48,9 @@ int main(){
 
   cout << endl << endl;
 
-
-  cout << blueColorText("Example color blue") << endl;
-  cout << blueColorText("Example color blue bold", "bold") << endl;
-  cout << blueColorText("Example color blue underline", "underline") << endl;
+  cout << cyanColorText("Example color cyan") << endl;
+  cout << cyanColorText("Example color cyan bold", "bold") << endl;
+  cout << cyanColorText("Example color cyan underline", "underline") << endl;
 
   cout << endl << endl;
 

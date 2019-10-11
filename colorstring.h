@@ -14,9 +14,9 @@ namespace color {
   const string redText     = "31m";
   const string greenText   = "32m";
   const string yellowText  = "33m";
-  const string cyanText    = "34m";
+  const string blueText    = "34m";
   const string magentaText  = "35m";
-  const string blueText    = "36m";
+  const string cyanText    = "36m";
   const string whiteText   = "37m";
 
   const string bold      = "1;";
